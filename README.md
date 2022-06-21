@@ -3,7 +3,7 @@
 <h3>
 About
 </h3>
-<p>I am a 22 years old young man from Argentina. I have done an intensive Full Stack Developement Bootcamp at Henry focused on Javascript tecnologies where I made two proyects. </p>
+<p>I am a 22 years old man from Argentina.   I have done an intensive Full Stack Developement Bootcamp at Henry focused on Javascript tecnologies where I made two proyects. </p>
 <br/>
 
 
