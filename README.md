@@ -38,7 +38,7 @@ Projects
  <p>
   As fast as I approved my individual project, I started a grupal proyect focused on a marketplace for digital goods. 
   Also it has a follower system, likes system and logIn/Admin system. 
-  It was an AMAZING experience to reach this project in three weeks only with six persons.
+  It was an AMAZING experience to reach this project in three weeks only with six people.
   This APP is deployed with Heroku and Vercel: <br/>
   BACKEND CODE: https://github.com/BugalloF/PG-Backend <br/>
   FRONTEND CODE: https://github.com/BugalloF/PG-Frontend <br/>
