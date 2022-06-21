@@ -1,6 +1,6 @@
-<h1>Hi, I'm Fermin Bugallo! 👋
+<h1 align="center">Hi, I'm Fermin Bugallo! 👋
 </h1>
-<h3>
+<h3 align="center">
 About
 </h3>
 <p>I am a 22 years old young man from Argentina. I have done an intensive Full Stack Developement Bootcamp at Henry focused on Javascript tecnologies where I made two proyects. </p>
@@ -13,8 +13,8 @@ const Me = {
   pronouns: "he" | "him",
   Code: [Javascript, HTML, CSS],
   technologies: {
-    frontEnd: [React, Redux,],
-    backEnd: [Node, Express,  PostgreSQL,Firebase]
+    frontEnd: [React, Redux,Vercel],
+    backEnd: [Node, Express,  PostgreSQL,Firebase,Heroku]
   },
   tools: [Postman,PGAdmin4],
   architecture: [SPA],
@@ -25,7 +25,7 @@ const Me = {
 - 💬 Ask me about JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Sequelize.
 - ⚡ Fun fact: I really enjoy work in groups with agile methologies.
 - 📖 I studied 3 years and a half Aeronautical Engenieering at Universidad Nacional de La Plata (2018-2022) before I decide to learn programming.
-<h3>
+<h3 align="center">
 Projects 
 </h3>
 <p>
