@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Fermin Bugallo! 👋
 </h1>
-<h3 align="center">
+<h3>
 About
 </h3>
 <p>I am a 22 years old young man from Argentina. I have done an intensive Full Stack Developement Bootcamp at Henry focused on Javascript tecnologies where I made two proyects. </p>
@@ -25,7 +25,7 @@ const Me = {
 - 💬 Ask me about JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Sequelize.
 - ⚡ Fun fact: I really enjoy work in groups with agile methologies.
 - 📖 I studied 3 years and a half Aeronautical Engenieering at Universidad Nacional de La Plata (2018-2022) before I decide to learn programming.
-<h3 align="center">
+<h3>
 Projects 
 </h3>
 <p>
@@ -43,4 +43,15 @@ Projects
   FRONTEND CODE: https://github.com/BugalloF/PG-Frontend <br/>
   Page: https://pg-frontend-eight.vercel.app
  </p>
-  
+ <h3>
+  Contact
+  </h3>
+  <p>
+
+ <a href="https://www.linkedin.com/in/fermin-bugallo-7aa0021b5/" target="blank">
+
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedIn" height="24px" width="24px" />
+
+ </a>
+
+</p>
