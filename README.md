@@ -36,7 +36,7 @@ Projects
  </p>
  <br/>
  <p>
-  As fast as I approved my individual project, I started a grupal proyect wich is an marketplace for digital goods. 
+  As fast as I approved my individual project, I started a grupal proyect focused on a marketplace for digital goods. 
   Also it has a follower system, likes system and logIn/Admin system. 
   It was an AMAZING experience to reach this project in three weeks only with six persons.
   This APP is deployed with Heroku and Vercel: <br/>
