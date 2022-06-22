@@ -32,7 +32,9 @@ Projects
   During Henry's Bootcamp I made myself a Single Page App about Pokémon.
   This is a fullstack app, that gives you the oportunity to search, filter, sort, create and delete a pokemon. <br/>
   Code: https://github.com/BugalloF/PI-Pokemons-Henry  <br/>
-  Video: https://www.linkedin.com/posts/fermin-bugallo-7aa0021b5_postgresql-sequelize-nodejs-activity-6945057832333381632-nhkk?utm_source=linkedin_share&utm_medium=member_desktop_web
+  Deploy Frontend: https://pi-pokemons-henry.vercel.app/ <br/>
+  Deploy Backend: https://pokeapp70.herokuapp.com/pokemons <br/>
+  Video: https://www.linkedin.com/posts/fermin-bugallo-7aa0021b5_postgresql-sequelize-nodejs-activity-6945057832333381632-nhkk?utm_source=linkedin_share&utm_medium=member_desktop_web 
  </p>
  <br/>
  <p>
