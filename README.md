@@ -22,8 +22,8 @@ const Me = {
 <br/>
 
 - 🌱 I finished Henry's Bootcamp on June 2022 and I'm always ready to learn new tecnologies.
-- 💬 Ask me about JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Sequelize.
-- ⚡ Fun fact: I really enjoy work in groups with agile methologies.
+- 💬 I work with JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Sequelize.
+- ⚡ Soft skills: I enjoy working in groups with agile methologies.
 - 📖 I studied 3 years and a half Aeronautical Engenieering at Universidad Nacional de La Plata (2018-2022) before I decide to learn programming.
 <h3>
 Projects 
