@@ -16,7 +16,7 @@ const Me = {
     frontEnd: [React, Redux,Vercel],
     backEnd: [Node, Express,  PostgreSQL,Firebase,Heroku]
   },
-  tools: [Postman,PGAdmin4],
+  tools: [Postman,PGAdmin4,Google DevTools],
   architecture: [SPA],
 ````
 <br/>
