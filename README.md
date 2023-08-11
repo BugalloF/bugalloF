@@ -22,9 +22,9 @@ const Me = {
 <br/>
 - 🌱 I finished Henry's Bootcamp on June 2022 and I'm always ready to learn new tecnologies.<br/>
 - 💬 I work with JavaScript,Python, React, Redux, HTML, CSS, Node JS, Express,Django, PostgreSQL, Sequelize.<br/>
-- ⚡ Soft skills: I enjoy working in groups with agile methologies and work in groups.<br/>
-- 📖 I studied 3 years and a half Aeronautical Engenieering at Universidad Nacional de La Plata (2018-2022) before I decide to learn programming.
-- - 📍 Actually in Barcelona, Spain.<br/>
+- ⚡ Soft skills: I enjoy working in groups with agile methologies.<br/>
+- 📖 I studied 3 years and a half Aeronautical Engenieering at Universidad Nacional de La Plata (2018-2022) before I decide to learn programming.<br/>
+- 📍 Actually in Barcelona, Spain.<br/>
 <h3>
 
  <h3>
